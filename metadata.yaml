@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '3207'
     url: http://www.gutenberg.org/2009/agents/3207
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43837#The-Man-Who-Was-GoodWith-an-Introduction-by-J.K.-Prothero
 gutenberg_issued: '2013-09-28'
 gutenberg_type: Text
 identifiers:
